@@ -10,6 +10,7 @@ frontend/   React (Vite) app that consumes the API (see frontend/README.md)
 
 ## Quick start
 
+
 1. **Backend** — follow [`backend/README.md`](backend/README.md): start
    PostgreSQL with Docker, set up the virtual environment, run migrations,
    then `python manage.py runserver` (listens on `http://127.0.0.1:8000/`).
